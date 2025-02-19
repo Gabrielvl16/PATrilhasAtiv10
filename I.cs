@@ -25,7 +25,7 @@ class Program
         {
             for (int j = 0; j < 10; j++)
             {
-                somaTotal += matriz[i, j];  // Somando os elementos
+                somaTotal += matriz[i, j];  
             }
         }
 
